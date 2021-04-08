@@ -2,90 +2,9 @@ body{
     background-color: e5e5e5;
     font-size: 18px;
     font-family: 'Montserrat', sans-serif;
-    
-}
-.container{
-    background: linear-gradient(#DDE8F7,#fff);
-}
-.btnBlue{
-    background: #1479FF;
-    border-radius: 50px;
-    Width: 220px;
-    Height:60px;
-    font-family: Montserrat;
-    font-style: normal;
-    font-size: 20px;
-    text-align: center;
-    color: #FFFFFF;
-}
-.colorBorder{
-    border:1px solid blue;
-}
-.Title{
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 30px;
-    line-height: 110%;
-    /* or 53px */
-
-    display: flex;
-    align-items: center;
-
-    color: #1E3F63;
-}
-.c-Background{
-    background: #EAF5FB;
 }
 
-.imgRectangleRow{
-    position: absolute;
-    left: 270px;
-}
-.imgFigureRow{
-    position: relative;
-    left: 120px;
-    top: 20px;
-}
-.imgRectangleCol{
-    /*primera card renglon*/
-    background-image:url("/assets/Rectangle\ 39\.svg");
-    background-repeat: no-repeat, repeat;
-    background-position: center;
-    height: auto;
-}
-.imgFigureCol{
-    position: relative;
-    top:180px;
-    left: 80px;
-}
-.rectangleFondoCol{
-    background-image:url("/assets/Rectangle\ 39\ \(1\).svg");
-    background-repeat: no-repeat, repeat;
-    background-position: right;
-    height: 500px;
-}
-.imgFigureCol2{
-    position: relative;
-    top:160px;
-    left: 20px;
-}
-.rectangleFondoCol2{
-    background-image:url("/assets/Rectangle\ 39\ \(2\).svg");
-    background-repeat: no-repeat, repeat;
-    background-position: center;
-}
-.rectangleFondoCol3{
-    background-image:url("/assets/Rectangle\ 39\ \(3\).svg");
-    background-repeat: no-repeat, repeat;
-    background-position: right;
-    height: 500px;
-}
-.rectangleFondoCol4{
-    background-image:url("/assets/Rectangle\ 39\ \(4\).svg");
-    background-repeat: no-repeat, repeat;
-    background-position: center;
-}
+/* background: linear-gradient(#DDE8F7,#fff); */
 /*  Paleta de colores
 #1470FF
 #1479FF
